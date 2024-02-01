@@ -5,7 +5,7 @@ files:
   - source: build/
     destination: /var/www/html/react-app
 
-hooks:
-  AfterInstall:
-    - location: scripts/start_server.sh
-      runas: root
+# hooks:
+#   AfterInstall:
+#     - location: scripts/start_server.sh
+#       runas: root
