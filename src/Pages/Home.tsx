@@ -36,7 +36,7 @@ export default function Home() {
         <HeaderContainer>
           <Header>
             <HeaderTitle>
-              Welcome Back ,<Description>Lucy Lure 12345</Description>
+              Welcome Back ,<Description>Lucy Lure 78999</Description>
             </HeaderTitle>
           </Header>
           <ButtonContainner>
